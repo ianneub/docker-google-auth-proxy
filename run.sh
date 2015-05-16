@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 if [ $EMAIL_LIST != "**None**" ]; then
   printf $EMAIL_LIST > /emails.txt
