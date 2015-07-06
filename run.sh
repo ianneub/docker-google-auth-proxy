@@ -5,4 +5,4 @@ if [ $EMAIL_LIST != "**None**" ]; then
   OPTS="-authenticated-emails-file=/emails.txt"
 fi
 
-exec "/google_auth_proxy" $OPTS "$@"
+exec "/oauth2_proxy" $OPTS "$@"
