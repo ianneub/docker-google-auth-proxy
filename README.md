@@ -1,10 +1,10 @@
 # google-auth-proxy container
 
-Built from releases at https://github.com/bitly/google_auth_proxy
+Built from releases at https://github.com/bitly/oauth2_proxy
 
 ## Configuration
 
-Documentation is here: https://github.com/bitly/google_auth_proxy#configuration
+Documentation is here: https://github.com/bitly/oauth2_proxy#configuration
 
 The entry point is configured such that you can pass options right into your run command:
 
