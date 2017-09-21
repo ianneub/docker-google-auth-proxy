@@ -14,5 +14,3 @@ Consider using environment variables for secrets such as:
 
 * `GOOGLE_AUTH_PROXY_CLIENT_SECRET`
 * `GOOGLE_AUTH_PROXY_COOKIE_SECRET`
-
-
